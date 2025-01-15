@@ -18,9 +18,7 @@
 
 - 👯 I’m looking to collaborate on Backend Web Development Projects using Django
 
-- 📝 I regularly write articles on [https://thealibigdeli.ir](https://thealibigdeli.ir)
-
-- 💬 Ask me about **Python,IOT,AI**
+- 💬 Ask me about **Python,IOT**
 
 - 📫 How to reach me **arshiashirvani.f1385@gmail.com**
 
