@@ -9,6 +9,7 @@
 
 <p align="left">I’m always eager to learn new technologies and collaborate with people who share my passion for innovation and creating something impactful. If you’re as passionate about coding as I am, feel free to explore my repositories and let’s work on something exciting together! 😊</p>
 
+<br><br>
 
 
 - 🔭 I’m currently working on Backend Development with Django
@@ -24,14 +25,14 @@
 - 📫 How to reach me **arshiashirvani.f1385@gmail.com**
 
 - ⚡ Fun fact **I’ve become more patient over time**
-
+<br><br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/arshia-shirvani-2ba593325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealibigdeli" height="25" width="35" /></a>
 <a href="https://instagram.com/arshia.shirvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thealibigdeli" height="25" width="35" /></a>
 </p>
-
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
