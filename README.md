@@ -48,3 +48,7 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26"/>
 </p>
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=ArshiaShirvani&theme=github-dark&border_radius=7.2&card_width=450&hide_longest_streak=true">
+
+ </p>
